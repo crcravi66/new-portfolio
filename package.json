@@ -1,12 +1,12 @@
 {
-  "homepage": "https://crcravi66.github.io/portfolio",
+  "homepage": "https://crcravi66.github.io/new-portfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r git@github.com:crcravi66/portfolio.git",
+    "deploy": "gh-pages -d dist -r git@github.com:crcravi66/new-portfolio.git",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
